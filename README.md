@@ -57,5 +57,5 @@ enabled by default for release build. If you want to build it, change the path, 
 of the keystore file specified in gradle.properties.
 
 
-***Add the Google API key to MainActivity.java
-Placement ID for Facebook ADs to MainActivity.java:183***
+***Add the Google API key to MainActivity.java***
+***Placement ID for Facebook ADs to MainActivity.java:183***
